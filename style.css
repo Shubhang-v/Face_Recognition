@@ -1,0 +1,23 @@
+.heading
+{
+    font-size: larger;
+    width: 80%;
+}
+.name_of_people
+{
+    color:crimson;
+}
+body
+{
+    background: linear-gradient(to bottom right, lightyellow 0%,lightblue 55%,lightgreen 95%) 
+}
+#camera{
+    width: 300px;
+    height: 250px;
+    border-style: dotted ;
+    border-color:aquamarine;
+}
+p{
+    background: linear-gradient(to right, lightgreen ,pink,lightblue );
+    border-radius: 89px;
+}
